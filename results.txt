@@ -1,0 +1,8 @@
+322306 chars, vocabulary 96, train 257844, test 64462
+n=1  bits/char on held-out text: 4.818
+n=2  bits/char on held-out text: 3.977
+n=3  bits/char on held-out text: 3.406
+n=4  bits/char on held-out text: 3.412
+n=5  bits/char on held-out text: 3.847
+n=6  bits/char on held-out text: 4.269
+n=7  bits/char on held-out text: 4.604
